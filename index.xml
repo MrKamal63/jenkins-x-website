@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Blog: Hacktoberfest</title>
+      <title>Blog: Hacktoberfest-2020</title>
       <link>https://jenkins-x.io/blog/2020/09/23/hacktoberfest2020/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -546,7 +546,7 @@ During this time, I have migrated some addons to apps.&lt;/p&gt;
 &lt;p&gt;Long term, as things continue to improve, we hope all experimentation can be done upstream without major issues - but we’re not there yet. And, continuing to build out on JXL risked a forking situation where the path back to upstream becomes harder and harder - we didn’t want that to happen. So, our solution for now, suboptimal as it is, is to build the next chapter out a little more privately, figure out what makes sense in upstream from day 1 and what we might want to first offer through the Distribution as an enterprise capability (similar to the UI) and then get the community back on track with a single direction.&lt;/p&gt;
 &lt;p&gt;We’re not saying this is great - it’s a learning process for us too, and while we’re excited about the path to the future JXL has given us, we also have to make the best of it with the limitations that exist today and the large companies trying to count on Jenkins X more and more.&lt;/p&gt;
 &lt;h2 id=&#34;feedback-and-questions&#34;&gt;Feedback and questions&lt;/h2&gt;
-&lt;p&gt;We’d love to hear from you on this and discuss it more, so please ping us in the community Slack, join office hours and get involved. The Jenkins X community is critical to all of us and, even with some setbacks and missteps, we’re excited to keep learning and improving together.&lt;/p&gt;
+&lt;p&gt;We’d love to hear from you on this and discuss it more, so please ping us in the community Slack, join office hours as soon as possiable  and get involved. The Jenkins X community is critical to all of us and, even with some setbacks and missteps, we’re excited to keep learning and improving together.&lt;/p&gt;
 
       </description>
     </item>
